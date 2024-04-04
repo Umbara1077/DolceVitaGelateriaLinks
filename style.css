@@ -5,6 +5,10 @@ body {
     padding: 20px;
 }
 
+body, html {
+    height: 100%;
+    margin: 0;
+}
 .container {
     max-width: 600px;
     margin: auto;
@@ -65,4 +69,14 @@ h1 {
 .hours-section p {
     margin: 0;
     font-size: 18px;
+}
+
+footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: #f2f2f2; /* Example background color */
+    padding: 10px 0; /* Adds some padding around the text */
 }
