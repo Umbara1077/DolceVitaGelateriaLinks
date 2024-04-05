@@ -34,6 +34,10 @@ h1 {
     align-items: center;
 }
 
+.social-button:last-child {
+    margin-bottom: 40px; /* Adds additional space below the last button */
+}
+
 .social-button {
     background-color: #007bff;
     color: white;
