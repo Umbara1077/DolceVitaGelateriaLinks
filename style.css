@@ -77,6 +77,6 @@ footer {
     bottom: 0;
     width: 100%;
     text-align: center;
-    background-color: #f2f2f2; /* Example background color */
-    padding: 5px 0; /* Adds some padding around the text */
+    background-color: #f2f2f2; 
+    padding: 10px 0; /* Adds some padding around the text */
 }
